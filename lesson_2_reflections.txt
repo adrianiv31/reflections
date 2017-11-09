@@ -1,4 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 An empty repository is created
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 You can think twice before commiting
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can add or remove files from staging area before commiting
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Making different versions of an app or when making an app in different languages. It helps to keep track of versions
+
+How do the diagrams help you visualize the branch structure?
+like a tree
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: I decide what stays.
+Cons: Takes time
